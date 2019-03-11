@@ -1,2 +1,0 @@
-# reactNative
-Created with CodeSandbox
